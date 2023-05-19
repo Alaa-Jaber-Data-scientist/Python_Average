@@ -13,4 +13,4 @@ This program calculates the average of numbers entered by the user. It prompts t
 > 
 >- After entering -1, the program will display the calculated average with two decimal places.
 > 
-> Enjoy calculating averages effortlessly with our program!
+_ Enjoy calculating averages effortlessly with our program!_
