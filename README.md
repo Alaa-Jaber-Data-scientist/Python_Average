@@ -3,14 +3,14 @@ This program calculates the average of numbers entered by the user. It prompts t
 
 > **Instructions**:
 > 
->-Run the program.
+>- Run the program.
 > 
 >- Enter numeric values one by one and press Enter after each input.
 >
->-To finish entering numbers and calculate the average, enter -1.
+>- To finish entering numbers and calculate the average, enter -1.
 > 
->-The program will handle non-numeric input gracefully and prompt you to enter a valid number.
+>- The program will handle non-numeric input gracefully and prompt you to enter a valid number.
 > 
->-After entering -1, the program will display the calculated average with two decimal places.
+>- After entering -1, the program will display the calculated average with two decimal places.
 > 
 > Enjoy calculating averages effortlessly with our program!
